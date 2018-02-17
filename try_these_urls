@@ -1,0 +1,13 @@
+Run on Terminal/CMD:
+python new_app.py
+
+
+Try following URL's on the browser:
+
+http://localhost:5000
+http://localhost:5000/hello
+http://localhost:5000/trek
+http://localhost:5000/wars
+http://localhost:5000/hello/python/
+
+
